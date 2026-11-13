@@ -1,0 +1,10 @@
+polars==1.44.2
+numpy==2.5.3
+numba==0.67.0
+xgboost==3.4.1
+rapidfuzz==3.14.6
+pyarrow==25.0.1
+psutil==7.2.2
+torch==2.14.0
+transformers==5.17.0
+scikit-learn==1.9.1

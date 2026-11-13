@@ -1,0 +1,19 @@
+# challenge data, caches, outputs and large models: never commit
+data
+data/
+data_syn/
+cache/
+output*/
+ditto/
+laya/
+qwen/
+*.zip
+*.tsv
+*.npy
+logs*.txt
+
+# environment
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
